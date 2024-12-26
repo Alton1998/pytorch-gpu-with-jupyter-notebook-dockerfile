@@ -2,7 +2,7 @@ version: '3.9'
 
 services:
   pytorch-jupyter:
-    image: yourusername/pytorch-jupyter:latest  # Replace with your Docker Hub image
+    image: cyberhead1998/pytorch-jupyter:latest  # Replace with your Docker Hub image
     deploy:
       resources:
         reservations:
